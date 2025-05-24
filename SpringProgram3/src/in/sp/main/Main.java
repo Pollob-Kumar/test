@@ -12,6 +12,6 @@ public class Main
 		ApplicationContext container = new ClassPathXmlApplicationContext("/in/sp/resources/applicationContext.xml");
 		
 		Student std = (Student) container.getBean("stdObj");
-		std.display();
+		std.display(); //test
 	}
 }

@@ -21,7 +21,7 @@ No need to create a branch. Branches are already created for you. Just switch.
 
 ```bash
 git checkout pollob      # For Pollob
-git checkout ashiqur     # For Ahiqur
+git checkout ashiqur     # For Ashiqur
 git checkout tanzid      # For Tanzid
 ```
 
@@ -44,6 +44,7 @@ git push origin pollob      # Replace with your own branch name
 ### ⚠️ Important Tips
 
 ❌ Never push directly to the main branch
+
 ✅ Always pull latest updates before coding:
 
 ```bash
@@ -52,7 +53,9 @@ git pull origin main              # Get updates from main branch
 ```
 
 📝 Use clear and meaningful commit messages
+
 ✅ Stay on your branch unless reviewing/merging
+
 
 
 🚀 Let’s begin our tasks! Once your part is done, create a pull request so we can merge everything into the main branch.

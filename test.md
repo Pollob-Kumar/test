@@ -1,6 +1,6 @@
 ## 🤝 How to Contribute (For Team Members Only)
 
-This guide is only for our team members — **Pollob, Ahiqur, and Tanzid** — so that we can work in parallel, stay organized, and collaborate smoothly on GitHub.
+This guide is only for our team members — **Pollob, Ashiqur, and Tanzid** — so that we can work in parallel, stay organized, and collaborate smoothly on GitHub.
 
 ---
 

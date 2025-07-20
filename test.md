@@ -61,4 +61,4 @@ git pull origin main              # Get updates from main branch
 
 
 Let’s begin our tasks! Once your part is done, create a pull request so we can merge everything into the main branch.
-Teamwork makes the project perfect! 💪
+Teamwork makes the project perfect!

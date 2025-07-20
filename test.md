@@ -1,4 +1,4 @@
-## 🤝 How to Contribute (For Team Members Only)
+## How to Contribute (For Team Members Only)
 
 This guide is only for our team members — **Pollob, Ashiqur, and Tanzid** — so that we can work in parallel, stay organized, and collaborate smoothly on GitHub.
 
@@ -55,10 +55,10 @@ git checkout your-branch-name     # e.g., pollob
 git pull origin main              # Get updates from main branch
 ```
 
-📝 Use clear and meaningful commit messages <br>
-✅ Stay on your branch unless reviewing/merging <br> <br> <br>
+- Use clear and meaningful commit messages <br>
+- Stay on your branch unless reviewing/merging <br> <br> <br>
 
 
 
-🚀 Let’s begin our tasks! Once your part is done, create a pull request so we can merge everything into the main branch.
+Let’s begin our tasks! Once your part is done, create a pull request so we can merge everything into the main branch.
 Teamwork makes the project perfect! 💪

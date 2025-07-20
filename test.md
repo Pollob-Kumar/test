@@ -15,7 +15,7 @@ This guide is only for our team members — **Pollob, Ahiqur, and Tanzid** — s
 git clone https://github.com/pollobkumar/airline-reservation-c.git
 cd airline-reservation-c
 ```
-<be>
+<br>
 
 ### ✅ Step 2: Use Your Assigned Branch (Already Created)
 No need to create a branch. Branches are already created for you. Just switch.
@@ -25,7 +25,7 @@ git checkout pollob      # For Pollob
 git checkout ashiqur     # For Ashiqur
 git checkout tanzid      # For Tanzid
 ```
-<be>
+<br>
 
 ### ✅ Step 3: Do Your Work and Push to GitHub
 
@@ -43,7 +43,7 @@ git push origin pollob      # Replace with your own branch name
 3. Submit the PR — Team members will review the PR.
 4. After approval, the PR will be merged into main branch.
 
-<be>
+<br>
 
 ### ⚠️ Important Tips
 
